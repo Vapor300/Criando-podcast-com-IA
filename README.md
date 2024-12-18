@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d5dcc085-bc93-425d-b568-e27af306155e
+
 # Criando-podcast-com-IA
 Um episódio de podcast sobre análise de dados criado com IA
 
